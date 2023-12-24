@@ -1,0 +1,9 @@
+first download programe used to run fos:
+https://drive.google.com/file/d/1QHxuo9R8-XN-9aZDFDBS-J-DPoIqPP4X/view
+
+second see instrucations from slides to set templete.
+ 
+note after download programe: you should run from file "FOS_Eclipse.bat"
+
+this vedio " https://www.youtube.com/watch?v=6x5ffjupcBg " will help you.
+
